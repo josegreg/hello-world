@@ -1,0 +1,15 @@
+---
+title: "README"
+author: "Jose G. Rodriguez Villarreal"
+date: "17 de septiembre de 2017"
+output: html_document
+---
+
+The file run_analysis.R contains the code to clean sets of data related to an experiment.
+
+1. First download and unzip the relevant files into directories.
+2. Then transforms the datasets and put together the train and test data frames.
+3. Filter out those variables that are not means or standard deviations of the original experiment variables.
+4. Finally the dataframe is given a proper name to identify the variables
+5. Summarise the data as requested
+6. Files are stored for further analysis.

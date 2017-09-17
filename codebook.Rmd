@@ -1,0 +1,99 @@
+---
+title: "Cleaning Data"
+author: "Jose G. RV"
+date: "17 de septiembre de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data's layout
+We use the following computations. We give a brief description in the case of the mean statistic. Something similar follows in the case of std. 
+mean(): Mean value
+std(): Standard deviation
+
+
+ 1. _Activity_ Is the code of the activity in the experiment. Taking 6 values.                        
+ 2. _Description_Activity_  Description of the activity carried out when the measurement took place.    
+ 3. _t_Body_acceleration_-mean()-X_. Mean of the _X_ component of the body acceleration            
+ 4. _t_Body_acceleration_-mean()-Y_  Mean of the _Y_ component of the body acceleration            
+ 5. _t_Body_acceleration_-mean()-Z_. Mean of the _Z_ component of the body acceleration                 
+ 6. _t_Gravity_Acceleration_-mean()-X_. Mean of the _X_ component of the gravity acceleration
+ 7. _t_Gravity_Acceleration_-mean()-Y_. Mean of the _Y_ component of the gravity acceleration        
+ 8. _t_Gravity_Acceleration_-mean()-Z_. Mean of the _Z_ component of the gravity acceleration    
+ 9. _t_Body_acceleration_Jerk-mean()-X_. Mean of the _X_ component of the body's acceleration
+10. _t_Body_acceleration_Jerk-mean()-Y_                 
+11. _t_Body_acceleration_Jerk-mean()-Z_                 
+12. _t_Body_angular_velocity_-mean()-X_ Mean of the _X_ component of the angular speed
+13. _t_Body_angular_velocity_-mean()-Y_ Mean of the _Y_ component of the angular speed    
+14. _t_Body_angular_velocity_-mean()-Z_ Mean of the _Z_ component of the angular speed  
+15. _t_Body_angular_velocity_Jerk-mean()-X_             
+16. _t_Body_angular_velocity_Jerk-mean()-Y_             
+17. _t_Body_angular_velocity_Jerk-mean()-Z_             
+18. _t_Body_acceleration__norm_2-mean()_ Mean of the Euclidean norm of the _linear_ acceleration
+19. _t_Gravity_Acceleration__norm_2-mean()_ Mean of the Euclidean norm of the _gravity_ acceleration
+20. _t_Body_acceleration_Jerk_norm_2-mean()_ Mean of the Euclidean norm of the _linear_ acceleration
+21. _t_Body_angular_velocity__norm_2-mean()_ Mean of the Euclidean norm of the angular velocity
+22. _t_Body_angular_velocity_Jerk_norm_2-mean()_        
+23. _f_Body_acceleration_-mean()-X_   Mean of the _X_ component of the freq's body's acceleration  
+24. _f_Body_acceleration_-mean()-Y_   Mean of the _Y_ component of the freq's body's acceleration
+25. _f_Body_acceleration_-mean()-Z_   Mean of the _Z_ component of the freq's body's acceleration
+26. _f_Body_acceleration_-meanFreq()-X_ Mean freq of the _X_ component of the body's acceleration    
+27. _f_Body_acceleration_-meanFreq()-Y_ Mean freq of the _Y_ component of the body's acceleration    
+28. _f_Body_acceleration_-meanFreq()-Z_ Mean freq of the _Z_ component of the body's acceleration    
+29. _f_Body_acceleration_Jerk-mean()-X_ Mean of the _X_ component of the freq's body's acceleration    
+30. _f_Body_acceleration_Jerk-mean()-Y_ Mean of the _Y_ component of the freq's body's acceleration    
+31. _f_Body_acceleration_Jerk-mean()-Z_ Mean of the _Z_ component of the freq's body's acceleration   
+32. _f_Body_acceleration_Jerk-meanFreq()-X_ Mean freq of the _X_ component of the body's acceleration 
+33. _f_Body_acceleration_Jerk-meanFreq()-Y_ Mean freq of the _X_ component of the body's acceleration 
+34. _f_Body_acceleration_Jerk-meanFreq()-Z_ Mean freq of the _X_ component of the body's acceleration 
+35. _f_Body_angular_velocity_-mean()-X_   Mean of the _X_ component of the freq's body's angular speed  
+36. _f_Body_angular_velocity_-mean()-Y_   Mean of the _Y_ component of the freq's body's angular speed  
+37. _f_Body_angular_velocity_-mean()-Z_   Mean of the _Z_ component of the freq's body's angular speed
+38. _f_Body_angular_velocity_-meanFreq()-X_ Mean freq of the _X_ component of the body's angular speed 
+39. _f_Body_angular_velocity_-meanFreq()-Y_ Mean freq of the _Y_ component of the body's angular speed  
+40. _f_Body_angular_velocity_-meanFreq()-Z_ Mean freq of the _Z_ component of the body's angular speed
+41. _f_Body_acceleration__norm_2-mean()_    Mean norm of the body's acceleration            
+42. _f_Body_acceleration__norm_2-meanFreq()_ Mean norm of the mean freq's body's acceleration           
+43. _fBody_Body_acceleration_Jerk_norm_2-mean()_  Mean norm of the body's acceleration  
+44. _fBody_Body_acceleration_Jerk_norm_2-meanFreq()_ Mean norm of mean freq of the body's acceleration
+45. _fBody_Body_angular_velocity__norm_2-mean()_  Mean norm of mean freq of the body's angular speed
+46. _fBody_Body_angular_velocity__norm_2-meanFreq()_  Mean norm of the mean freq of the body's angular speed  
+47. _fBody_Body_angular_velocity_Jerk_norm_2-mean()_  Mean norm of mean freq of the body's angular speed
+48. _fBody_Body_angular_velocity_Jerk_norm_2-meanFreq()_ Mean norm of mean freq of the body's angular speed
+49. _t_Body_acceleration_-std()-X_                      
+50. _t_Body_acceleration_-std()-Y_                      
+51. _t_Body_acceleration_-std()-Z_                      
+52. _t_Gravity_Acceleration_-std()-X_                   
+53. _t_Gravity_Acceleration_-std()-Y_                   
+54. _t_Gravity_Acceleration_-std()-Z_                   
+55. _t_Body_acceleration_Jerk-std()-X_                  
+56. _t_Body_acceleration_Jerk-std()-Y_                  
+57. _t_Body_acceleration_Jerk-std()-Z_                  
+58. _t_Body_angular_velocity_-std()-X_                  
+59. _t_Body_angular_velocity_-std()-Y_                  
+60. _t_Body_angular_velocity_-std()-Z_                  
+61. _t_Body_angular_velocity_Jerk-std()-X_              
+62. _t_Body_angular_velocity_Jerk-std()-Y_              
+63. _t_Body_angular_velocity_Jerk-std()-Z_              
+64. _t_Body_acceleration__norm_2-std()_                 
+65. _t_Gravity_Acceleration__norm_2-std()_              
+66. _t_Body_acceleration_Jerk_norm_2-std()_             
+67. _t_Body_angular_velocity__norm_2-std()_             
+68. _t_Body_angular_velocity_Jerk_norm_2-std()_         
+69. _f_Body_acceleration_-std()-X_                      
+70. _f_Body_acceleration_-std()-Y_                      
+71. _f_Body_acceleration_-std()-Z_                      
+72. _f_Body_acceleration_Jerk-std()-X_                  
+73. _f_Body_acceleration_Jerk-std()-Y_                  
+74. _f_Body_acceleration_Jerk-std()-Z_                  
+75. _f_Body_angular_velocity_-std()-X_                  
+76. _f_Body_angular_velocity_-std()-Y_                  
+77. _f_Body_angular_velocity_-std()-Z_                  
+78. _f_Body_acceleration__norm_2-std()_                 
+79. _fBody_Body_acceleration_Jerk_norm_2-std()_         
+80. _fBody_Body_angular_velocity__norm_2-std()_         
+81. _fBody_Body_angular_velocity_Jerk_norm_2-std()_   
+
