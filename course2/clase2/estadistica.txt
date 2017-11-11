@@ -1,0 +1,6 @@
+La lista es [1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37]
+Mínimo : 1
+Máximo: 37
+Suma: 247
+Promedio 19.0
+
