@@ -1,0 +1,13 @@
+'''
+Notas de clase 4
+
+import matplotlib.pyplot as pyplot
+plt.plot([], [], "yo")
+plt.show()
+
+
+Libreria sklearn para modelos de machine learning
+scikitlearn
+scikitlearn.org/stable/supervised_learning.html
+
+'''
