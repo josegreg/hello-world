@@ -1,0 +1,30 @@
+
+Token conjunto de caracteres con cierta propiedad
+
+Repetidores 
+{*} -> 0  o  más repeticiones del patrón
+{+} -> una o más repeticiones del patrón
+{a,[b]} -> a -veces o a+1 -veces o ... b -veces
+{[a],b}
+
+.[]{2,3}{1,2} -> token con patrón de repetición
+
+([a-zA-Z0-9.-_]+)@([a-zA-Z0-9.-_]+)(.[\w\.\-\_]{2,3}){1,2}
+
+Libreria en python -> re
+"import re"
+pattern "[a-zA-Z0-9._-]"
+
+\w -> alfanuméricos
+. -> cualquier caracteres
+
+
+pattern "[\w._-]+@\w+(.\w{2,3}){1,2}"
+
+texto = "mi correo es ana@gmail.com"
+
+for m in re.finditer(pattern,text):
+    print(m.group(0))
+
+
+Leer cap1-6 de texto "Natural Processing"
