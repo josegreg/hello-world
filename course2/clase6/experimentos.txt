@@ -1,0 +1,1015 @@
+tiempo: 73 MIN 
+ densidad: 48.3743 kg/m3 
+ temperatura: 0.7374 C
+ volumen: 10.0198 m3
+ --------------------------------------------
+tiempo: 15 MIN 
+ densidad: 66.1788 kg/m3 
+ temperatura: 0.9494 C
+ volumen: 9.9774 m3
+ --------------------------------------------
+tiempo: 4 MIN 
+ densidad: 55.0119 kg/m3 
+ temperatura: 0.6839 C
+ volumen: 10.002 m3
+ --------------------------------------------
+tiempo: 72 MIN 
+ densidad: 57.5803 kg/m3 
+ temperatura: 0.9157 C
+ volumen: 10.0419 m3
+ --------------------------------------------
+tiempo: 89 MIN 
+ densidad: 74.7837 kg/m3 
+ temperatura: 0.8787 C
+ volumen: 10.0205 m3
+ --------------------------------------------
+tiempo: 25 MIN 
+ densidad: 79.7312 kg/m3 
+ temperatura: 0.6977 C
+ volumen: 9.9566 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 10.6745 kg/m3 
+ temperatura: 0.5544 C
+ volumen: 10.0041 m3
+ --------------------------------------------
+tiempo: 91 MIN 
+ densidad: 89.3198 kg/m3 
+ temperatura: 0.0001 C
+ volumen: 9.9663 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 17.4462 kg/m3 
+ temperatura: 0.3122 C
+ volumen: 9.9844 m3
+ --------------------------------------------
+tiempo: 91 MIN 
+ densidad: 44.7385 kg/m3 
+ temperatura: 0.9502 C
+ volumen: 10.1257 m3
+ --------------------------------------------
+tiempo: 78 MIN 
+ densidad: 59.6216 kg/m3 
+ temperatura: 0.9412 C
+ volumen: 9.9836 m3
+ --------------------------------------------
+tiempo: 87 MIN 
+ densidad: 21.5569 kg/m3 
+ temperatura: 0.826 C
+ volumen: 10.028 m3
+ --------------------------------------------
+tiempo: 32 MIN 
+ densidad: 82.907 kg/m3 
+ temperatura: 0.2469 C
+ volumen: 9.9371 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 95.192 kg/m3 
+ temperatura: 0.9405 C
+ volumen: 9.9069 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 72.7179 kg/m3 
+ temperatura: 0.2446 C
+ volumen: 10.0608 m3
+ --------------------------------------------
+tiempo: 84 MIN 
+ densidad: 66.5275 kg/m3 
+ temperatura: 0.777 C
+ volumen: 10.0016 m3
+ --------------------------------------------
+tiempo: 95 MIN 
+ densidad: 39.2377 kg/m3 
+ temperatura: 0.9118 C
+ volumen: 9.9162 m3
+ --------------------------------------------
+tiempo: 89 MIN 
+ densidad: 52.5251 kg/m3 
+ temperatura: 0.9512 C
+ volumen: 9.9936 m3
+ --------------------------------------------
+tiempo: 37 MIN 
+ densidad: 51.7028 kg/m3 
+ temperatura: 0.993 C
+ volumen: 9.9474 m3
+ --------------------------------------------
+tiempo: 9 MIN 
+ densidad: 86.0152 kg/m3 
+ temperatura: 0.7498 C
+ volumen: 10.0142 m3
+ --------------------------------------------
+tiempo: 7 MIN 
+ densidad: 64.0227 kg/m3 
+ temperatura: 0.6751 C
+ volumen: 10.003 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 69.4724 kg/m3 
+ temperatura: 0.1976 C
+ volumen: 9.9883 m3
+ --------------------------------------------
+tiempo: 10 MIN 
+ densidad: 87.634 kg/m3 
+ temperatura: 0.1742 C
+ volumen: 10.0325 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 52.3793 kg/m3 
+ temperatura: 0.5343 C
+ volumen: 9.9884 m3
+ --------------------------------------------
+tiempo: 36 MIN 
+ densidad: 25.3087 kg/m3 
+ temperatura: 0.1245 C
+ volumen: 10.03 m3
+ --------------------------------------------
+tiempo: 6 MIN 
+ densidad: 45.6546 kg/m3 
+ temperatura: 0.5097 C
+ volumen: 10.018 m3
+ --------------------------------------------
+tiempo: 16 MIN 
+ densidad: 90.0659 kg/m3 
+ temperatura: 0.087 C
+ volumen: 9.9744 m3
+ --------------------------------------------
+tiempo: 90 MIN 
+ densidad: 10.6759 kg/m3 
+ temperatura: 0.2465 C
+ volumen: 9.9554 m3
+ --------------------------------------------
+tiempo: 95 MIN 
+ densidad: 49.9037 kg/m3 
+ temperatura: 0.7833 C
+ volumen: 9.895 m3
+ --------------------------------------------
+tiempo: 79 MIN 
+ densidad: 72.2209 kg/m3 
+ temperatura: 0.319 C
+ volumen: 10.0512 m3
+ --------------------------------------------
+tiempo: 54 MIN 
+ densidad: 98.4411 kg/m3 
+ temperatura: 0.5728 C
+ volumen: 10.0381 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 45.5549 kg/m3 
+ temperatura: 0.0727 C
+ volumen: 10.0445 m3
+ --------------------------------------------
+tiempo: 10 MIN 
+ densidad: 19.0842 kg/m3 
+ temperatura: 0.869 C
+ volumen: 10.0697 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 39.2362 kg/m3 
+ temperatura: 0.8173 C
+ volumen: 10.0375 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 34.1478 kg/m3 
+ temperatura: 0.6868 C
+ volumen: 10.0095 m3
+ --------------------------------------------
+tiempo: 66 MIN 
+ densidad: 86.3472 kg/m3 
+ temperatura: 0.2633 C
+ volumen: 10.1047 m3
+ --------------------------------------------
+tiempo: 30 MIN 
+ densidad: 91.316 kg/m3 
+ temperatura: 0.0417 C
+ volumen: 10.0129 m3
+ --------------------------------------------
+tiempo: 27 MIN 
+ densidad: 40.2046 kg/m3 
+ temperatura: 0.7321 C
+ volumen: 10.0382 m3
+ --------------------------------------------
+tiempo: 35 MIN 
+ densidad: 64.8284 kg/m3 
+ temperatura: 0.9834 C
+ volumen: 9.9246 m3
+ --------------------------------------------
+tiempo: 42 MIN 
+ densidad: 21.3742 kg/m3 
+ temperatura: 0.8146 C
+ volumen: 10.0292 m3
+ --------------------------------------------
+tiempo: 45 MIN 
+ densidad: 24.4748 kg/m3 
+ temperatura: 0.0839 C
+ volumen: 9.9557 m3
+ --------------------------------------------
+tiempo: 26 MIN 
+ densidad: 82.2136 kg/m3 
+ temperatura: 0.091 C
+ volumen: 9.9134 m3
+ --------------------------------------------
+tiempo: 21 MIN 
+ densidad: 83.8618 kg/m3 
+ temperatura: 0.4145 C
+ volumen: 10.007 m3
+ --------------------------------------------
+tiempo: 27 MIN 
+ densidad: 90.1568 kg/m3 
+ temperatura: 0.7769 C
+ volumen: 10.0304 m3
+ --------------------------------------------
+tiempo: 26 MIN 
+ densidad: 91.879 kg/m3 
+ temperatura: 0.1657 C
+ volumen: 9.9278 m3
+ --------------------------------------------
+tiempo: 3 MIN 
+ densidad: 92.0907 kg/m3 
+ temperatura: 0.9489 C
+ volumen: 9.9913 m3
+ --------------------------------------------
+tiempo: 61 MIN 
+ densidad: 62.8964 kg/m3 
+ temperatura: 0.3275 C
+ volumen: 10.0557 m3
+ --------------------------------------------
+tiempo: 20 MIN 
+ densidad: 83.0499 kg/m3 
+ temperatura: 0.3627 C
+ volumen: 9.9002 m3
+ --------------------------------------------
+tiempo: 16 MIN 
+ densidad: 77.9822 kg/m3 
+ temperatura: 0.7696 C
+ volumen: 9.951 m3
+ --------------------------------------------
+tiempo: 75 MIN 
+ densidad: 48.0088 kg/m3 
+ temperatura: 0.8673 C
+ volumen: 9.9487 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 99.2548 kg/m3 
+ temperatura: 0.7398 C
+ volumen: 10.0153 m3
+ --------------------------------------------
+tiempo: 29 MIN 
+ densidad: 42.0217 kg/m3 
+ temperatura: 0.2145 C
+ volumen: 10.0038 m3
+ --------------------------------------------
+tiempo: 93 MIN 
+ densidad: 26.8952 kg/m3 
+ temperatura: 0.1128 C
+ volumen: 10.0504 m3
+ --------------------------------------------
+tiempo: 53 MIN 
+ densidad: 18.5274 kg/m3 
+ temperatura: 0.9371 C
+ volumen: 9.9665 m3
+ --------------------------------------------
+tiempo: 44 MIN 
+ densidad: 42.1683 kg/m3 
+ temperatura: 0.3739 C
+ volumen: 10.0487 m3
+ --------------------------------------------
+tiempo: 99 MIN 
+ densidad: 68.0071 kg/m3 
+ temperatura: 0.736 C
+ volumen: 10.0309 m3
+ --------------------------------------------
+tiempo: 41 MIN 
+ densidad: 57.9264 kg/m3 
+ temperatura: 0.5607 C
+ volumen: 10.0613 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 81.1092 kg/m3 
+ temperatura: 0.0779 C
+ volumen: 10.074 m3
+ --------------------------------------------
+tiempo: 86 MIN 
+ densidad: 21.9703 kg/m3 
+ temperatura: 0.0619 C
+ volumen: 9.9904 m3
+ --------------------------------------------
+tiempo: 99 MIN 
+ densidad: 44.1228 kg/m3 
+ temperatura: 0.0445 C
+ volumen: 9.9893 m3
+ --------------------------------------------
+tiempo: 64 MIN 
+ densidad: 59.6442 kg/m3 
+ temperatura: 0.7405 C
+ volumen: 9.9977 m3
+ --------------------------------------------
+tiempo: 31 MIN 
+ densidad: 72.6105 kg/m3 
+ temperatura: 0.4937 C
+ volumen: 9.9184 m3
+ --------------------------------------------
+tiempo: 85 MIN 
+ densidad: 79.7088 kg/m3 
+ temperatura: 0.9733 C
+ volumen: 10.0021 m3
+ --------------------------------------------
+tiempo: 85 MIN 
+ densidad: 48.3341 kg/m3 
+ temperatura: 0.8484 C
+ volumen: 9.9438 m3
+ --------------------------------------------
+tiempo: 70 MIN 
+ densidad: 50.9025 kg/m3 
+ temperatura: 0.4158 C
+ volumen: 10.0452 m3
+ --------------------------------------------
+tiempo: 91 MIN 
+ densidad: 60.6791 kg/m3 
+ temperatura: 0.0094 C
+ volumen: 10.0229 m3
+ --------------------------------------------
+tiempo: 62 MIN 
+ densidad: 19.6156 kg/m3 
+ temperatura: 0.3477 C
+ volumen: 9.9015 m3
+ --------------------------------------------
+tiempo: 44 MIN 
+ densidad: 81.3534 kg/m3 
+ temperatura: 0.7134 C
+ volumen: 9.9912 m3
+ --------------------------------------------
+tiempo: 82 MIN 
+ densidad: 82.5192 kg/m3 
+ temperatura: 0.1783 C
+ volumen: 9.9447 m3
+ --------------------------------------------
+tiempo: 41 MIN 
+ densidad: 57.4538 kg/m3 
+ temperatura: 0.2646 C
+ volumen: 10.0563 m3
+ --------------------------------------------
+tiempo: 64 MIN 
+ densidad: 19.5761 kg/m3 
+ temperatura: 0.1065 C
+ volumen: 9.9733 m3
+ --------------------------------------------
+tiempo: 87 MIN 
+ densidad: 42.4202 kg/m3 
+ temperatura: 0.5197 C
+ volumen: 9.9737 m3
+ --------------------------------------------
+tiempo: 97 MIN 
+ densidad: 64.0434 kg/m3 
+ temperatura: 0.2683 C
+ volumen: 9.9408 m3
+ --------------------------------------------
+tiempo: 23 MIN 
+ densidad: 45.7717 kg/m3 
+ temperatura: 0.25 C
+ volumen: 10.0232 m3
+ --------------------------------------------
+tiempo: 92 MIN 
+ densidad: 78.419 kg/m3 
+ temperatura: 0.2299 C
+ volumen: 10.0808 m3
+ --------------------------------------------
+tiempo: 37 MIN 
+ densidad: 71.6789 kg/m3 
+ temperatura: 0.6303 C
+ volumen: 10.1367 m3
+ --------------------------------------------
+tiempo: 74 MIN 
+ densidad: 37.0187 kg/m3 
+ temperatura: 0.5673 C
+ volumen: 9.9754 m3
+ --------------------------------------------
+tiempo: 75 MIN 
+ densidad: 79.8772 kg/m3 
+ temperatura: 0.5676 C
+ volumen: 10.0215 m3
+ --------------------------------------------
+tiempo: 71 MIN 
+ densidad: 46.1541 kg/m3 
+ temperatura: 0.2848 C
+ volumen: 10.0109 m3
+ --------------------------------------------
+tiempo: 48 MIN 
+ densidad: 84.759 kg/m3 
+ temperatura: 0.662 C
+ volumen: 10.0384 m3
+ --------------------------------------------
+tiempo: 41 MIN 
+ densidad: 67.4571 kg/m3 
+ temperatura: 0.3945 C
+ volumen: 10.0012 m3
+ --------------------------------------------
+tiempo: 68 MIN 
+ densidad: 39.5492 kg/m3 
+ temperatura: 0.5927 C
+ volumen: 10.0021 m3
+ --------------------------------------------
+tiempo: 77 MIN 
+ densidad: 23.8434 kg/m3 
+ temperatura: 0.7585 C
+ volumen: 10.0273 m3
+ --------------------------------------------
+tiempo: 27 MIN 
+ densidad: 62.1064 kg/m3 
+ temperatura: 0.9803 C
+ volumen: 10.0086 m3
+ --------------------------------------------
+tiempo: 17 MIN 
+ densidad: 99.2155 kg/m3 
+ temperatura: 0.7364 C
+ volumen: 9.9285 m3
+ --------------------------------------------
+tiempo: 44 MIN 
+ densidad: 15.4947 kg/m3 
+ temperatura: 0.3328 C
+ volumen: 10.1016 m3
+ --------------------------------------------
+tiempo: 5 MIN 
+ densidad: 48.5982 kg/m3 
+ temperatura: 0.1281 C
+ volumen: 9.9953 m3
+ --------------------------------------------
+tiempo: 7 MIN 
+ densidad: 42.325 kg/m3 
+ temperatura: 0.4229 C
+ volumen: 10.0125 m3
+ --------------------------------------------
+tiempo: 37 MIN 
+ densidad: 85.4496 kg/m3 
+ temperatura: 0.059 C
+ volumen: 9.9655 m3
+ --------------------------------------------
+tiempo: 74 MIN 
+ densidad: 11.1937 kg/m3 
+ temperatura: 0.5174 C
+ volumen: 9.9893 m3
+ --------------------------------------------
+tiempo: 21 MIN 
+ densidad: 33.85 kg/m3 
+ temperatura: 0.3036 C
+ volumen: 9.9975 m3
+ --------------------------------------------
+tiempo: 67 MIN 
+ densidad: 14.1605 kg/m3 
+ temperatura: 0.4507 C
+ volumen: 9.9723 m3
+ --------------------------------------------
+tiempo: 23 MIN 
+ densidad: 62.3638 kg/m3 
+ temperatura: 0.3201 C
+ volumen: 9.9933 m3
+ --------------------------------------------
+tiempo: 54 MIN 
+ densidad: 41.7265 kg/m3 
+ temperatura: 0.59 C
+ volumen: 10.1172 m3
+ --------------------------------------------
+tiempo: 61 MIN 
+ densidad: 55.8069 kg/m3 
+ temperatura: 0.312 C
+ volumen: 10.0322 m3
+ --------------------------------------------
+tiempo: 36 MIN 
+ densidad: 53.1831 kg/m3 
+ temperatura: 0.8729 C
+ volumen: 10.048 m3
+ --------------------------------------------
+tiempo: 67 MIN 
+ densidad: 36.329 kg/m3 
+ temperatura: 0.2056 C
+ volumen: 9.992 m3
+ --------------------------------------------
+tiempo: 6 MIN 
+ densidad: 82.4952 kg/m3 
+ temperatura: 0.9503 C
+ volumen: 10.0058 m3
+ --------------------------------------------
+tiempo: 40 MIN 
+ densidad: 30.2405 kg/m3 
+ temperatura: 0.9641 C
+ volumen: 9.9571 m3
+ --------------------------------------------
+tiempo: 6 MIN 
+ densidad: 20.1124 kg/m3 
+ temperatura: 0.9565 C
+ volumen: 10.0171 m3
+ --------------------------------------------
+tiempo: 4 MIN 
+ densidad: 83.0728 kg/m3 
+ temperatura: 0.7366 C
+ volumen: 9.9121 m3
+ --------------------------------------------
+tiempo: 77 MIN 
+ densidad: 67.9197 kg/m3 
+ temperatura: 0.8848 C
+ volumen: 10.0129 m3
+ --------------------------------------------
+tiempo: 2 MIN 
+ densidad: 41.1391 kg/m3 
+ temperatura: 0.6593 C
+ volumen: 10.0522 m3
+ --------------------------------------------
+tiempo: 10 MIN 
+ densidad: 36.7235 kg/m3 
+ temperatura: 0.2077 C
+ volumen: 9.9913 m3
+ --------------------------------------------
+tiempo: 92 MIN 
+ densidad: 55.3705 kg/m3 
+ temperatura: 0.0045 C
+ volumen: 10.0309 m3
+ --------------------------------------------
+tiempo: 27 MIN 
+ densidad: 34.7617 kg/m3 
+ temperatura: 0.4491 C
+ volumen: 10.0116 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 54.9051 kg/m3 
+ temperatura: 0.5724 C
+ volumen: 10.0253 m3
+ --------------------------------------------
+tiempo: 27 MIN 
+ densidad: 39.363 kg/m3 
+ temperatura: 0.635 C
+ volumen: 10.0751 m3
+ --------------------------------------------
+tiempo: 76 MIN 
+ densidad: 53.285 kg/m3 
+ temperatura: 0.0107 C
+ volumen: 10.0039 m3
+ --------------------------------------------
+tiempo: 91 MIN 
+ densidad: 27.8198 kg/m3 
+ temperatura: 0.3031 C
+ volumen: 9.975 m3
+ --------------------------------------------
+tiempo: 15 MIN 
+ densidad: 73.0358 kg/m3 
+ temperatura: 0.7031 C
+ volumen: 9.9953 m3
+ --------------------------------------------
+tiempo: 17 MIN 
+ densidad: 31.6436 kg/m3 
+ temperatura: 0.591 C
+ volumen: 10.0103 m3
+ --------------------------------------------
+tiempo: 46 MIN 
+ densidad: 12.82 kg/m3 
+ temperatura: 0.8861 C
+ volumen: 10.0358 m3
+ --------------------------------------------
+tiempo: 42 MIN 
+ densidad: 55.7961 kg/m3 
+ temperatura: 0.2405 C
+ volumen: 10.0779 m3
+ --------------------------------------------
+tiempo: 12 MIN 
+ densidad: 55.968 kg/m3 
+ temperatura: 0.1874 C
+ volumen: 9.9533 m3
+ --------------------------------------------
+tiempo: 70 MIN 
+ densidad: 32.7196 kg/m3 
+ temperatura: 0.1816 C
+ volumen: 9.9943 m3
+ --------------------------------------------
+tiempo: 68 MIN 
+ densidad: 26.3558 kg/m3 
+ temperatura: 0.3131 C
+ volumen: 9.9609 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 17.6234 kg/m3 
+ temperatura: 0.0253 C
+ volumen: 10.0729 m3
+ --------------------------------------------
+tiempo: 88 MIN 
+ densidad: 60.4504 kg/m3 
+ temperatura: 0.7203 C
+ volumen: 10.0217 m3
+ --------------------------------------------
+tiempo: 68 MIN 
+ densidad: 23.8126 kg/m3 
+ temperatura: 0.2749 C
+ volumen: 10.0363 m3
+ --------------------------------------------
+tiempo: 29 MIN 
+ densidad: 38.1919 kg/m3 
+ temperatura: 0.7269 C
+ volumen: 10.0333 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 96.9541 kg/m3 
+ temperatura: 0.5707 C
+ volumen: 9.9882 m3
+ --------------------------------------------
+tiempo: 3 MIN 
+ densidad: 26.2304 kg/m3 
+ temperatura: 0.8397 C
+ volumen: 10.0663 m3
+ --------------------------------------------
+tiempo: 71 MIN 
+ densidad: 76.5829 kg/m3 
+ temperatura: 0.8132 C
+ volumen: 9.9231 m3
+ --------------------------------------------
+tiempo: 65 MIN 
+ densidad: 49.7297 kg/m3 
+ temperatura: 0.2653 C
+ volumen: 10.0104 m3
+ --------------------------------------------
+tiempo: 23 MIN 
+ densidad: 60.4572 kg/m3 
+ temperatura: 0.5413 C
+ volumen: 10.0668 m3
+ --------------------------------------------
+tiempo: 66 MIN 
+ densidad: 22.2745 kg/m3 
+ temperatura: 0.3217 C
+ volumen: 10.0097 m3
+ --------------------------------------------
+tiempo: 20 MIN 
+ densidad: 19.4132 kg/m3 
+ temperatura: 0.5191 C
+ volumen: 10.0495 m3
+ --------------------------------------------
+tiempo: 94 MIN 
+ densidad: 40.7018 kg/m3 
+ temperatura: 0.5199 C
+ volumen: 9.9318 m3
+ --------------------------------------------
+tiempo: 53 MIN 
+ densidad: 86.3191 kg/m3 
+ temperatura: 0.4166 C
+ volumen: 9.9688 m3
+ --------------------------------------------
+tiempo: 63 MIN 
+ densidad: 61.8966 kg/m3 
+ temperatura: 0.7508 C
+ volumen: 9.9553 m3
+ --------------------------------------------
+tiempo: 48 MIN 
+ densidad: 99.8049 kg/m3 
+ temperatura: 0.772 C
+ volumen: 9.9785 m3
+ --------------------------------------------
+tiempo: 7 MIN 
+ densidad: 59.5303 kg/m3 
+ temperatura: 0.8815 C
+ volumen: 9.9323 m3
+ --------------------------------------------
+tiempo: 60 MIN 
+ densidad: 66.9029 kg/m3 
+ temperatura: 0.3321 C
+ volumen: 10.0119 m3
+ --------------------------------------------
+tiempo: 45 MIN 
+ densidad: 44.1594 kg/m3 
+ temperatura: 0.7519 C
+ volumen: 9.9895 m3
+ --------------------------------------------
+tiempo: 10 MIN 
+ densidad: 59.1558 kg/m3 
+ temperatura: 0.2895 C
+ volumen: 9.9356 m3
+ --------------------------------------------
+tiempo: 65 MIN 
+ densidad: 38.2218 kg/m3 
+ temperatura: 0.5942 C
+ volumen: 9.9861 m3
+ --------------------------------------------
+tiempo: 12 MIN 
+ densidad: 19.8356 kg/m3 
+ temperatura: 0.8353 C
+ volumen: 10.0564 m3
+ --------------------------------------------
+tiempo: 71 MIN 
+ densidad: 19.3845 kg/m3 
+ temperatura: 0.1756 C
+ volumen: 9.8907 m3
+ --------------------------------------------
+tiempo: 37 MIN 
+ densidad: 26.9785 kg/m3 
+ temperatura: 0.4746 C
+ volumen: 9.9565 m3
+ --------------------------------------------
+tiempo: 14 MIN 
+ densidad: 79.7924 kg/m3 
+ temperatura: 0.5706 C
+ volumen: 10.0022 m3
+ --------------------------------------------
+tiempo: 47 MIN 
+ densidad: 71.1468 kg/m3 
+ temperatura: 0.9345 C
+ volumen: 9.9653 m3
+ --------------------------------------------
+tiempo: 44 MIN 
+ densidad: 61.635 kg/m3 
+ temperatura: 0.1486 C
+ volumen: 10.0701 m3
+ --------------------------------------------
+tiempo: 21 MIN 
+ densidad: 53.8848 kg/m3 
+ temperatura: 0.24 C
+ volumen: 9.9746 m3
+ --------------------------------------------
+tiempo: 31 MIN 
+ densidad: 72.5406 kg/m3 
+ temperatura: 0.8591 C
+ volumen: 9.9654 m3
+ --------------------------------------------
+tiempo: 74 MIN 
+ densidad: 84.565 kg/m3 
+ temperatura: 0.1484 C
+ volumen: 9.9537 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 48.127 kg/m3 
+ temperatura: 0.6568 C
+ volumen: 9.9475 m3
+ --------------------------------------------
+tiempo: 89 MIN 
+ densidad: 74.8735 kg/m3 
+ temperatura: 0.1616 C
+ volumen: 9.946 m3
+ --------------------------------------------
+tiempo: 20 MIN 
+ densidad: 63.0608 kg/m3 
+ temperatura: 0.0046 C
+ volumen: 9.9556 m3
+ --------------------------------------------
+tiempo: 56 MIN 
+ densidad: 91.3527 kg/m3 
+ temperatura: 0.0419 C
+ volumen: 10.0121 m3
+ --------------------------------------------
+tiempo: 81 MIN 
+ densidad: 32.14 kg/m3 
+ temperatura: 0.6998 C
+ volumen: 10.0121 m3
+ --------------------------------------------
+tiempo: 91 MIN 
+ densidad: 73.4565 kg/m3 
+ temperatura: 0.6918 C
+ volumen: 9.9925 m3
+ --------------------------------------------
+tiempo: 97 MIN 
+ densidad: 11.3267 kg/m3 
+ temperatura: 0.941 C
+ volumen: 10.0165 m3
+ --------------------------------------------
+tiempo: 66 MIN 
+ densidad: 39.829 kg/m3 
+ temperatura: 0.6049 C
+ volumen: 9.9779 m3
+ --------------------------------------------
+tiempo: 7 MIN 
+ densidad: 37.7722 kg/m3 
+ temperatura: 0.3405 C
+ volumen: 9.9729 m3
+ --------------------------------------------
+tiempo: 68 MIN 
+ densidad: 83.954 kg/m3 
+ temperatura: 0.4099 C
+ volumen: 9.9856 m3
+ --------------------------------------------
+tiempo: 78 MIN 
+ densidad: 99.2491 kg/m3 
+ temperatura: 0.9422 C
+ volumen: 9.9554 m3
+ --------------------------------------------
+tiempo: 30 MIN 
+ densidad: 28.2872 kg/m3 
+ temperatura: 0.347 C
+ volumen: 10.0544 m3
+ --------------------------------------------
+tiempo: 67 MIN 
+ densidad: 46.4457 kg/m3 
+ temperatura: 0.974 C
+ volumen: 10.0123 m3
+ --------------------------------------------
+tiempo: 30 MIN 
+ densidad: 27.3244 kg/m3 
+ temperatura: 0.9267 C
+ volumen: 9.9911 m3
+ --------------------------------------------
+tiempo: 87 MIN 
+ densidad: 89.5605 kg/m3 
+ temperatura: 0.0129 C
+ volumen: 10.0121 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 98.8638 kg/m3 
+ temperatura: 0.5705 C
+ volumen: 9.9559 m3
+ --------------------------------------------
+tiempo: 72 MIN 
+ densidad: 37.1375 kg/m3 
+ temperatura: 0.3225 C
+ volumen: 10.0115 m3
+ --------------------------------------------
+tiempo: 38 MIN 
+ densidad: 15.6572 kg/m3 
+ temperatura: 0.629 C
+ volumen: 9.9915 m3
+ --------------------------------------------
+tiempo: 89 MIN 
+ densidad: 63.7617 kg/m3 
+ temperatura: 0.2486 C
+ volumen: 10.0152 m3
+ --------------------------------------------
+tiempo: 19 MIN 
+ densidad: 84.7761 kg/m3 
+ temperatura: 0.3018 C
+ volumen: 10.0293 m3
+ --------------------------------------------
+tiempo: 10 MIN 
+ densidad: 11.7375 kg/m3 
+ temperatura: 0.4332 C
+ volumen: 9.9132 m3
+ --------------------------------------------
+tiempo: 86 MIN 
+ densidad: 94.25 kg/m3 
+ temperatura: 0.685 C
+ volumen: 10.0751 m3
+ --------------------------------------------
+tiempo: 31 MIN 
+ densidad: 96.2487 kg/m3 
+ temperatura: 0.2439 C
+ volumen: 9.9264 m3
+ --------------------------------------------
+tiempo: 4 MIN 
+ densidad: 28.7434 kg/m3 
+ temperatura: 0.2653 C
+ volumen: 9.9977 m3
+ --------------------------------------------
+tiempo: 1 MIN 
+ densidad: 97.4477 kg/m3 
+ temperatura: 0.9199 C
+ volumen: 10.0108 m3
+ --------------------------------------------
+tiempo: 54 MIN 
+ densidad: 28.4927 kg/m3 
+ temperatura: 0.9849 C
+ volumen: 9.8858 m3
+ --------------------------------------------
+tiempo: 4 MIN 
+ densidad: 30.4924 kg/m3 
+ temperatura: 0.6211 C
+ volumen: 9.9744 m3
+ --------------------------------------------
+tiempo: 62 MIN 
+ densidad: 95.6461 kg/m3 
+ temperatura: 0.1982 C
+ volumen: 9.9383 m3
+ --------------------------------------------
+tiempo: 48 MIN 
+ densidad: 53.6576 kg/m3 
+ temperatura: 0.5852 C
+ volumen: 10.0219 m3
+ --------------------------------------------
+tiempo: 34 MIN 
+ densidad: 68.2703 kg/m3 
+ temperatura: 0.731 C
+ volumen: 10.0215 m3
+ --------------------------------------------
+tiempo: 71 MIN 
+ densidad: 66.1999 kg/m3 
+ temperatura: 0.7074 C
+ volumen: 10.0976 m3
+ --------------------------------------------
+tiempo: 39 MIN 
+ densidad: 63.5238 kg/m3 
+ temperatura: 0.4583 C
+ volumen: 10.0247 m3
+ --------------------------------------------
+tiempo: 34 MIN 
+ densidad: 95.8329 kg/m3 
+ temperatura: 0.2944 C
+ volumen: 9.9506 m3
+ --------------------------------------------
+tiempo: 73 MIN 
+ densidad: 27.6509 kg/m3 
+ temperatura: 0.8486 C
+ volumen: 9.9596 m3
+ --------------------------------------------
+tiempo: 94 MIN 
+ densidad: 53.5102 kg/m3 
+ temperatura: 0.9592 C
+ volumen: 10.0157 m3
+ --------------------------------------------
+tiempo: 55 MIN 
+ densidad: 36.4397 kg/m3 
+ temperatura: 0.32 C
+ volumen: 10.0049 m3
+ --------------------------------------------
+tiempo: 9 MIN 
+ densidad: 85.0246 kg/m3 
+ temperatura: 0.144 C
+ volumen: 10.0084 m3
+ --------------------------------------------
+tiempo: 92 MIN 
+ densidad: 27.3334 kg/m3 
+ temperatura: 0.078 C
+ volumen: 9.9882 m3
+ --------------------------------------------
+tiempo: 12 MIN 
+ densidad: 79.5167 kg/m3 
+ temperatura: 0.3272 C
+ volumen: 9.9677 m3
+ --------------------------------------------
+tiempo: 74 MIN 
+ densidad: 64.0338 kg/m3 
+ temperatura: 0.949 C
+ volumen: 10.0488 m3
+ --------------------------------------------
+tiempo: 33 MIN 
+ densidad: 34.2839 kg/m3 
+ temperatura: 0.4615 C
+ volumen: 10.038 m3
+ --------------------------------------------
+tiempo: 49 MIN 
+ densidad: 14.1022 kg/m3 
+ temperatura: 0.9538 C
+ volumen: 9.993 m3
+ --------------------------------------------
+tiempo: 44 MIN 
+ densidad: 58.4653 kg/m3 
+ temperatura: 0.2205 C
+ volumen: 9.9971 m3
+ --------------------------------------------
+tiempo: 86 MIN 
+ densidad: 64.0516 kg/m3 
+ temperatura: 0.74 C
+ volumen: 10.0317 m3
+ --------------------------------------------
+tiempo: 29 MIN 
+ densidad: 38.9292 kg/m3 
+ temperatura: 0.9994 C
+ volumen: 10.0037 m3
+ --------------------------------------------
+tiempo: 90 MIN 
+ densidad: 88.0442 kg/m3 
+ temperatura: 0.9917 C
+ volumen: 9.9995 m3
+ --------------------------------------------
+tiempo: 81 MIN 
+ densidad: 54.3845 kg/m3 
+ temperatura: 0.8055 C
+ volumen: 10.061 m3
+ --------------------------------------------
+tiempo: 20 MIN 
+ densidad: 99.9801 kg/m3 
+ temperatura: 0.5698 C
+ volumen: 10.041 m3
+ --------------------------------------------
+tiempo: 86 MIN 
+ densidad: 33.8236 kg/m3 
+ temperatura: 0.9517 C
+ volumen: 10.0359 m3
+ --------------------------------------------
+tiempo: 18 MIN 
+ densidad: 65.1858 kg/m3 
+ temperatura: 0.8163 C
+ volumen: 9.9167 m3
+ --------------------------------------------
+tiempo: 61 MIN 
+ densidad: 32.2037 kg/m3 
+ temperatura: 0.5195 C
+ volumen: 10.0072 m3
+ --------------------------------------------
+tiempo: 77 MIN 
+ densidad: 64.3921 kg/m3 
+ temperatura: 0.7158 C
+ volumen: 10.0343 m3
+ --------------------------------------------
+tiempo: 52 MIN 
+ densidad: 59.4538 kg/m3 
+ temperatura: 0.3679 C
+ volumen: 9.9719 m3
+ --------------------------------------------
+tiempo: 22 MIN 
+ densidad: 86.3576 kg/m3 
+ temperatura: 0.1288 C
+ volumen: 10.0516 m3
+ --------------------------------------------
+tiempo: 47 MIN 
+ densidad: 69.7324 kg/m3 
+ temperatura: 0.6703 C
+ volumen: 10.0285 m3
+ --------------------------------------------
+tiempo: 23 MIN 
+ densidad: 95.0114 kg/m3 
+ temperatura: 0.2844 C
+ volumen: 9.9577 m3
+ --------------------------------------------
+tiempo: 40 MIN 
+ densidad: 95.7131 kg/m3 
+ temperatura: 0.5646 C
+ volumen: 10.0359 m3
+ --------------------------------------------

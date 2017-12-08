@@ -1,0 +1,4 @@
+'''
+Queries
+db.exmperimentos.find({c: : {$gte 20}})
+'''
